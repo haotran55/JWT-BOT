@@ -1,0 +1,1 @@
+curl -F "url=YOUR_RENDER_URL" "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook"

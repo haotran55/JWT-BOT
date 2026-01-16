@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "80:80"
+    restart: always
+    environment:
+      - BOT_TOKEN=7711988726:AAGimofS_-3_2zU1xu9e7DQalJ756nj3hKI
+      - CHANNEL_ID=@nr_codex
+    volumes:
+      - ./:/var/www/html
