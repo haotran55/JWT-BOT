@@ -4,7 +4,7 @@
 define('BOT_TOKEN', '8550028771:AAEwS3cAkEMDm-l_YOAxq0gpf1SGZO8Imlg');
 define('BOT_NAME', 'TEST NR JWT'); 
 define('API_BASE_URLS', [
-    'https://ngocduc-api.vercel.app/token?uid={Uid}&password={Password}',
+    'https://tranhao.vercel.app/token?uid={Uid}&password={Password}',
 ]);
 define('MAX_RETRIES', 10);
 define('CONCURRENT_REQUESTS', 55);
