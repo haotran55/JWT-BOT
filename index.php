@@ -2,9 +2,9 @@
 
 // Bot configuration
 define('BOT_TOKEN', '8550028771:AAEwS3cAkEMDm-l_YOAxq0gpf1SGZO8Imlg');
-define('BOT_NAME', 'TEST NR JWT'); 
+define('BOT_NAME', 'CỤ MẸ MÀY'); 
 define('API_BASE_URLS', [
-    'https://tranhao.vercel.app/token?uid={Uid}&password={Password}',
+    'https://uditanshu-dev-fd.vercel.app/token?uid={Uid}&password={Password}',
 ]);
 define('MAX_RETRIES', 10);
 define('CONCURRENT_REQUESTS', 55);
