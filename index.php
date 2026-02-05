@@ -4,7 +4,7 @@
 define('BOT_TOKEN', '8550028771:AAG0fVTLwNl37ox1eoAnLm59jAv_Ll-Kkkc');
 define('BOT_NAME', 'CỤ MẸ MÀY'); 
 define('API_BASE_URLS', [
-    'https://uditanshu-dev-fd.vercel.app/token?uid={Uid}&password={Password}',
+    'https://tranhao.vercel.app/token?uid={Uid}&password={Password}',
 ]);
 define('MAX_RETRIES', 10);
 define('CONCURRENT_REQUESTS', 55);
