@@ -1,7 +1,7 @@
 <?php
 
 // Bot configuration
-define('BOT_TOKEN', '8550028771:AAEwS3cAkEMDm-l_YOAxq0gpf1SGZO8Imlg');
+define('BOT_TOKEN', '8550028771:AAG0fVTLwNl37ox1eoAnLm59jAv_Ll-Kkkc');
 define('BOT_NAME', 'CỤ MẸ MÀY'); 
 define('API_BASE_URLS', [
     'https://uditanshu-dev-fd.vercel.app/token?uid={Uid}&password={Password}',
